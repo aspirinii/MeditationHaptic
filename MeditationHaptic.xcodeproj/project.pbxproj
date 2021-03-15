@@ -15,6 +15,7 @@
 		4871C7DD25F60AE500F0957C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4871C7DB25F60AE500F0957C /* LaunchScreen.storyboard */; };
 		4871C7E825F60AE500F0957C /* MeditationHapticTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4871C7E725F60AE500F0957C /* MeditationHapticTests.swift */; };
 		4871C7F325F60AE500F0957C /* MeditationHapticUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4871C7F225F60AE500F0957C /* MeditationHapticUITests.swift */; };
+		4871C80425F60D6600F0957C /* chakra-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4871C80325F60D6600F0957C /* chakra-2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4871C7EE25F60AE500F0957C /* MeditationHapticUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeditationHapticUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4871C7F225F60AE500F0957C /* MeditationHapticUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeditationHapticUITests.swift; sourceTree = "<group>"; };
 		4871C7F425F60AE500F0957C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4871C80325F60D6600F0957C /* chakra-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chakra-2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				4871C7D425F60AE200F0957C /* ViewController.swift */,
 				4871C7D625F60AE200F0957C /* Main.storyboard */,
 				4871C7D925F60AE500F0957C /* Assets.xcassets */,
+				4871C80325F60D6600F0957C /* chakra-2.png */,
 				4871C7DB25F60AE500F0957C /* LaunchScreen.storyboard */,
 				4871C7DE25F60AE500F0957C /* Info.plist */,
 			);
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4871C80425F60D6600F0957C /* chakra-2.png in Resources */,
 				4871C7DD25F60AE500F0957C /* LaunchScreen.storyboard in Resources */,
 				4871C7DA25F60AE500F0957C /* Assets.xcassets in Resources */,
 				4871C7D825F60AE200F0957C /* Main.storyboard in Resources */,
